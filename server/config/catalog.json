@@ -12,26 +12,5 @@
     "price": "1.99",
     "mime": "audio/m4a",
     "upname": "swcf.m4a"
-  },
-  "Going to a Restaurant": {
-    "fname": "going_to_a_restaurant.mp3",
-    "fdir": "media",
-    "price": "1.99",
-    "mime": "audio/mpeg",
-    "upname": "gtar.mp3"
-  },
-  "Origin of the Days of the Week": {
-    "fname": "fooed_around_and_fell_in_love.mp3",
-    "fdir": "media",
-    "price": "2.99",
-    "mime": "audio/mpeg",
-    "upname": "faafnl.mp3"
-  },
-  "English Idioms": {
-    "fname": "only_foos_rush_in.mp3",
-    "fdir": "media",
-    "price": "2.99",
-    "mime": "audio/mpeg",
-    "upname": "ofrn.mp3"
   }
 }
